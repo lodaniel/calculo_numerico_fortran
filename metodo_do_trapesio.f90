@@ -26,7 +26,4 @@ real(8),intent(in)::x
 real(8),intent(out)::f 
 f=3*x**2
 return
-end subroutine 
-
-
-
+end subroutine
